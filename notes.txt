@@ -1,0 +1,9 @@
+https://github.com/bradtraversy/project-mgmt-graphql/tree/main/server
+
+graphQL
+  - open-source data query and manipulation language
+  - can be an alternative to a REST API
+  - it's a cross between a REST API and SQL
+
+30 min
+
